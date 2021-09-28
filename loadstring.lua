@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/Toon-arch/LuaH/main/main.lua")))()
+loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/Toon-arch/LuaH/main/main.lua")))();
