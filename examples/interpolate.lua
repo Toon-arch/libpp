@@ -8,7 +8,7 @@ Example use:
 
 ]]--
 
-local LuaH = loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/Toon-arch/LuaH/main/main.lua")))()
+local LuaH = loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/Toon-arch/LuaH/main/main.lua")))();
 local format = LuaH.format
 
 format.interpolate("Hello my name is ${name} and I am ${age} years old!", {
