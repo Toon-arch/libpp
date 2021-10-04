@@ -1,5 +1,5 @@
 <h1 align="center">Libraries++</h2>
-<i align="center">A library extension of Roblox's Lua</i>
+<p align="center">A library extension of Roblox's Lua</p>
 <p align="center">
 	<a href="./LICENSE">
 		<img alt="License" src="https://img.shields.io/badge/license-GPL-blue?color=7aca00"/>
