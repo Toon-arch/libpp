@@ -12,3 +12,5 @@
 	</a>
 	<br><br><br>
 </p>
+
+Please refer to the [documentation](https://github.com/Toon-arch/libpp/wiki) to learn how to use libpp.
