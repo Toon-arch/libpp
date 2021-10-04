@@ -14,4 +14,4 @@
 
 ## Documentation
 
-Please refer to the [documentation](https://github.com/Toon-arch/libpp/wiki)
+Please refer to the [documentation](https://github.com/Toon-arch/libpp/wiki).
