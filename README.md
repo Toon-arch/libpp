@@ -10,7 +10,8 @@
 	<a href="https://github.com/Toon-arch/libpp/pulls">
 		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Toon-arch/libpp?color=0088ff"/>
 	</a>
-	<br><br><br>
 </p>
 
-Please refer to the [documentation](https://github.com/Toon-arch/libpp/wiki) to learn how to use libpp.
+## Documentation
+
+Please refer to the [documentation](https://github.com/Toon-arch/libpp/wiki)
